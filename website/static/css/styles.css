@@ -10378,6 +10378,8 @@ body {
 
 .description {
   width: 800px;
+  margin-left: 20px;
+
 }
 
 .titlecareer {
@@ -10386,6 +10388,7 @@ body {
 
 .descriptioncareer {
   width: 800px;
+  margin-left: 20px;
 }
 
 
